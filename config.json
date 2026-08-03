@@ -1,0 +1,16 @@
+{
+    "window": {
+        "width": 350,
+        "height": 471,
+        "x": 1569,
+        "y": 465
+    },
+    "language": {
+        "from": "自动检测",
+        "to": "英文"
+    },
+    "appearance": {
+        "background_image": "",
+        "background_opacity": 0.25
+    }
+}
